@@ -1,8 +1,10 @@
 # Cybersecurity Projects - Epicode School
-Progetti hands-on dalla certificazione **CyberSecurity Specialist** (Dicembre 2022 – Febbraio 2023, 12 settimane).
+
+Progetti hands-on dalla certificazione **CyberSecurity Specialist** (Dicembre 2022 – Febbraio 2023, settimana 1).
+
 ## 📋 Progetti
 
-**1. Creazione_Analisi_ReteCalcolator**  Network design e subnetting — progettazione di infrastrutture di rete con analisi CIDR e ottimizzazione.
+**1. Creazione_Analisi_ReteCalcolatori**  Network design e subnetting — progettazione di infrastrutture di rete con analisi CIDR e ottimizzazione.
 
 **2. Policy Ping_INetSim_WireShark**  Traffic monitoring e ICMP analysis — cattura e analisi del traffico di rete con Wireshark e simulazione di servizi.
 
